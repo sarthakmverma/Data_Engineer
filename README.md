@@ -1,4 +1,4 @@
-# Data_Engineer
+# Data Engineer
 **Actively Seeking Full-Time Roles**
 Data Engineering • Analytics • Product Development • AI/ML Solutions  
 **M.S. Business Analytics & Artificial Intelligence** — The University of Texas at Dallas *(Dean’s Excellence Scholar)*
