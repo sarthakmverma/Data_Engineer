@@ -7,13 +7,13 @@ Ex: Sabre | Capgemini | The Mohh
 
 ---
 
-## About Me
+# About Me
 
 I am a cross-functional data professional with 5+ years of experience spanning data engineering, analytics, and product development. I specialize in building scalable data pipelines, developing real-time dashboards, and applying AI/ML for measurable business outcomes. My work blends data architecture, business strategy, and execution to help organizations make faster, evidence-backed decisions.
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 **BullsI — Anti-Cyberbullying App**
 Designed and implemented a real-time NLP pipeline to detect harmful content in student communications, integrating automated alerts for school administrators. Deployed a data-driven pricing model that reduced incident management costs by $10K and maintained a 4.8/5 user rating.  
